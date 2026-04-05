@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large generated files (uncomment if you don't want to track outputs)
+# outputs/preprocessed_data.csv
+# outputs/initial_train.csv
+# outputs/initial_test.csv
+# outputs/model_results_summary.csv
